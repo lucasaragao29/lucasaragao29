@@ -2,7 +2,7 @@
 
 
 - 🏭 Atualmente estou trabalhando em area divergente a área de tecnologia. E estou em mudança de área profissional.
-- 💻 Estou cursando Superior em Sistema de Internet, e aprendendo sobre PHP/Laravel, JS/React/NodeJs,Python e MySQL.
+- 💻 Estou cursando Superior em Sistema de Internet, e me especializando PHP/Laravel e MySQL.
 - 🔭  Estou a procura de um Estagio/Trainee, para enfim entrar no mercado DEV e aumentar os meus conhecimentos.
 - 😄 Pronomes: Ele/Dele.
 - <div align="center">
@@ -13,11 +13,8 @@
 
 <div style="display: inline_block"><br>
   <img align="center" alt="lucas-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="bottom" alt="lucas-react" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-   <img align="center" alt="lucas-nodejs" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="bottom" alt="lucas-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rucas-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="bottom" alt="lucas-Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
    <img align="center" alt="lucas-php" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
    <img align="bottom" alt="lucas-laravel" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg">
    <img align="center" alt="lucas-linux" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
